@@ -1,8 +1,10 @@
-- 👋 Hey, I’m Harshita
-- 👀 I’m currently pursuing B.Tech in Computer Science
-- 🌱 I’m currently learning in SRMIST Ramapuram
-- 💞️ I’m interested in Web Development and @pawanraj77.
-- 📫 How to reach me : Chennai, India
+- 👋 Hey, I’m Harshita from Ratlam, Madhya Pradesh.
+- 👀 I’m currently pursuing B.Tech in Computer Science.
+- 🌱 I’m currently learning in SRMIST Ramapuram.
+- 💞️ I’m interested in Web Development.
+- 📫 How to reach me : Chennai, India.
+- ⚡ Fun fact: I'm a traveller.
+- 💬 Ask me about: technology and design.
 
 
 <!--
