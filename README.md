@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harshita3112
+- 👋 Hey, I’m Harshita
 - 👀 I’m currently pursuing B.Tech in Computer Science
 - 🌱 I’m currently learning in SRMIST Ramapuram
-- 💞️ I’m looking to collaborate on data science & cloud computing
-- 📫 How to reach me ...
+- 💞️ I’m interested in Web Development and @pawanraj77.
+- 📫 How to reach me : Chennai, India
 
 
 <!--
