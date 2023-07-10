@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m @Harshita3112
+- 👀 I’m currently pursuing B.Tech in Computer Science
+- 🌱 I’m currently learning in SRMIST Ramapuram
+- 💞️ I’m looking to collaborate on data science & cloud computing
+- 📫 How to reach me ...
+
 
 <!--
 **Harshita3112/Harshita3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
